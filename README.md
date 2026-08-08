@@ -330,12 +330,6 @@ workloads.
 - [`dracut(8)` manual](https://man7.org/linux/man-pages/man8/dracut.8.html)
 - [`systemd-analyze` manual](https://www.freedesktop.org/software/systemd/man/latest/systemd-analyze.html)
 
-## Author
-
-**Saeed Yavari (Leo Ryan)**  
-Linux System Administrator and Infrastructure Engineer  
-GitHub: [@isaeedyavari](https://github.com/isaeedyavari)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
